@@ -1,0 +1,5 @@
+{
+  "name": "Asistente de Convivencia Condominal",
+  "description": "Una herramienta de IA para evaluar situaciones en condominios basada en reglamentos oficiales y principios de sana convivencia, utilizando la API de Gemini.",
+  "requestFramePermissions": []
+}
